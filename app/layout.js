@@ -21,6 +21,7 @@ export default function RootLayout({ children }) {
           <Link href="/client-components">ClientC</Link>
           <Link className="leading-4" href="/movies">Search Movies</Link>
           <Link href="/actions">Actions</Link>
+          <Link href="/shadcn">ShadCN/UI</Link>
           <div className="flex-1"></div>
           <div>login</div>
         </header>
